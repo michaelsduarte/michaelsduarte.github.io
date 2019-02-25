@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a professor in the area of mechatronics in the Federal Institute of Education, Science and Technology of Ceara - IFCE.
+I am currently a professor in the area of mechatronics in the Federal Institute of Education, Science and Technology of Ceara.
 
-My research interests lie at the synergistic combination of
+My research interests lie at the synergistic combination of ...
 
 <br/><img src='/images/research.jpg'>
 
