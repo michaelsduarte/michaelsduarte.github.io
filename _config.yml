@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Michael DUARTE"
+title                    : "Michael Duarte's | Homepage"
 title_separator          : "-"
 name                     : &name "Michael Duarte"
 description              : &description "Professor of mechatronics in the Federal Institute of Education, Science and Technology of Ceara"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Michael Duarte"
   avatar           : "profile.png"
-  bio              : "Professor of Mechatronics in the Federal Institute of Ceará (IFCE)"
-  location         : "Location"
+  bio              : "Professor of mechatronics in the Federal Institute of Education, Science and Technology of Ceara"
+  location         : "Brazil - Ceara"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
