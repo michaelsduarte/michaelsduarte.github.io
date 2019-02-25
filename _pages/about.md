@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "About me "
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a professor in the area of mechatronics in the Federal Institute of Education, Science and Technology of Ceara (IFCE).
 
-My research interests lie at the synergistic combination of...
+My research interests lie at the synergistic combination of<br/><img src='/images/research.jpg'>
 
 
 
