@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Industrial Mechatronics at the Federal Institute of Education, Science and Technology of Ceara, Brazil, 2010.
