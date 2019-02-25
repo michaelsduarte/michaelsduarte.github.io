@@ -25,24 +25,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014 - Current: Professor of the teaching basic, technic and technologic
+  * Federal Institute of Education, Science and Technology of Ceara
+  * Duties included: Teaching, research and extension
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2011 - 2014: Automation technologist
+  * Synapsis Brasil Ltda
+  * Duties included: Maintenance, commissioning and design of automation systems, telecontrol and smart grid
 
 Publications
 ======
