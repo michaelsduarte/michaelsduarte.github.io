@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Michael Duarte's / Homepage"
+title                    : "Michael DUARTE"
 title_separator          : "-"
 name                     : &name "Michael Duarte"
-description              : &description "Professor of Mechatronics in the Federal Institute of Ceará (IFCE)"
+description              : &description "Professor of mechatronics in the Federal Institute of Education, Science and Technology of Ceara"
 url                      : https://michaelsduarte.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaelsduarte/michaelsduarte.github.io"
