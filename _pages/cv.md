@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[Lattes](http://lattes.cnpq.br/7081973883272441)
 
 Education
 ======
