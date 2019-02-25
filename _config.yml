@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Michael Duarte / Homepage"
+title                    : "Michael Duarte's / Homepage"
 title_separator          : "-"
 name                     : &name "Michael Duarte"
 description              : &description "Professor of Mechatronics in the Federal Institute of Ceará (IFCE)"
