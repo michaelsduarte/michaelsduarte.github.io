@@ -1,6 +1,6 @@
 ---
 title: "Sistema de Leitura Automática de Medidores Eletrônicos de Energia Elétrica para o Meio Rural"
-collection: inproceedings
+collection: publications
 permalink: /publication/2010-11-22-paper-title-number-1
 excerpt: 'Este  trabalho  tem  como  objetivo propor  um  sistema  utilizando  váriosmeios  físicos  de  comunicação para a realização da medição remota e tarifação diferenciada de energia elétrica para consumidores...'
 venue: 'XIX Seminário Nacional de Distribuição de Energia Elétrica (SENDI)'
