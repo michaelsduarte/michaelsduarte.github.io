@@ -4,6 +4,8 @@ collection: publications
 permalink: /publication/2010-11-22-paper-title-number-1
 excerpt: 'Este  trabalho  tem  como  objetivo propor  um  sistema  utilizando  váriosmeios  físicos  de  comunicação para a realização da medição remota e tarifação diferenciada de energia elétrica para consumidores...'
 venue: 'XIX Seminário Nacional de Distribuição de Energia Elétrica (SENDI)'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'DUARTE, Michael S. (2010). &quot;Sistema de Leitura Automática de Medidores Eletrônicos de Energia Elétrica para o Meio Rural.&quot; <i>XIX Seminário Nacional de Distribuição de Energia Elétrica (SENDI)</i>.'
 date: 2010-11-22
 
 ---
