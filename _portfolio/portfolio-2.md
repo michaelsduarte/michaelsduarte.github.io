@@ -20,3 +20,6 @@ Integrantes: Michael Santos Duarte - Integrante / Mário Wilson Paiva Pereira - 
 Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)
 
 Período: 2015-2016
+
+Outras informações:
+- [Social](https://www.facebook.com/Projeto-Difus%C3%A3o-da-Rob%C3%B3tica-m%C3%B3vel-atrav%C3%A9s-da-Freescale-Cup-Brasil-435006053322716/)
