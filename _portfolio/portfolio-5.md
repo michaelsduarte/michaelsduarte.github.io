@@ -8,6 +8,6 @@ Desenvolvimento de um sistema para medição remota de medidores eletrônicos de
 
 Integrantes: Michael Santos Duarte - Integrante / Osmênio dos Santos Braz - Integrante / Manoel B. da Cunha Moraes - Integrante / Pedro Klécius Farias Cardoso - Coordenador.
 
-Financiador(es): Companhia Hidro Elétrica do São Francisco.
+Financiador(es): Companhia Energética do Maranhão.
 
 Período: 2008-2010
