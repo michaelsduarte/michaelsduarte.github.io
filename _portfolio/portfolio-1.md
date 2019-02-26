@@ -1,6 +1,6 @@
 ---
 title: "Projeto de extensão"
-excerpt: "Difusão do desenho mecânico utilizando ferramentas CAD por meio de torneios de educação profissional<br/><img src='/images/500x300.png'>"
+excerpt: "Difusão do desenho mecânico utilizando ferramentas CAD por meio de torneios de educação profissional"
 collection: portfolio
 ---
 
@@ -8,4 +8,4 @@ De acordo com dados do Instituto de Desenvolvimento Industrial (INDI), em 2002 e
 
 Integrantes: Michael Santos Duarte - Coordenador / Angelica Paz de Melo - Integrante / Francisco Lucas Maurício da Silva - Integrante / Izamaro de Araújo - Integrante.
 
-Situação: Concluído
+Período: 2015-2016
