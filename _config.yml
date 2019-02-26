@@ -10,7 +10,7 @@ locale                   : "pt-BR"
 title                    : "Michael S. Duarte's | Homepage"
 title_separator          : "-"
 name                     : &name "Michael S. Duarte"
-description              : &description "Professor of mechatronics in the Federal Institute of Education, Science and Technology of Ceara"
+description              : &description "Professor de mecatrônica no Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
 url                      : https://michaelsduarte.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaelsduarte/michaelsduarte.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Michael S. Duarte"
   avatar           : "profile.png"
-  bio              : "Professor of mechatronics in the Federal Institute of Education, Science and Technology of Ceara"
-  location         : "Brazil - Ceara"
+  bio              : "Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+  location         : "Brasil - Ceará"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=IhEAmwEAAAAJ&hl=pt-BR"
   email            :
