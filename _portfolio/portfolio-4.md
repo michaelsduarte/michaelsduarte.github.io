@@ -11,3 +11,10 @@ Integrantes: Michael Santos Duarte - Integrante / Tobias Gadelha Brasil Filho - 
 Financiador(es): Companhia Hidro Elétrica do São Francisco.
 
 Período: 2008-2011
+
+Outras informações:
+- [Vídeo 1](https://www.youtube.com/watch?v=1s4ZO-L3aXo)
+- [Vídeo 2](https://www.youtube.com/watch?v=FmUvjwWKnpM)
+- [Vídeo 3](https://www.youtube.com/watch?v=HfEJjOh8hDA)
+- [Vídeo 4](https://www.youtube.com/watch?v=DqALO28GOqc)
+- [Vídeo 5](https://www.youtube.com/watch?v=fxh1CsdAXqk)
