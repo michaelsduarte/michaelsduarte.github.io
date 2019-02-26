@@ -4,7 +4,7 @@ collection: teaching
 type: "High school"
 permalink: /teaching/2016-spring-teaching-2
 venue: "IFCE, Telecomunicações"
-date: 2016
+date: 2016-01-01
 location: "Brasil"
 ---
 
