@@ -1,7 +1,7 @@
 ---
 title: "Análise de circuitos"
 collection: teaching
-type: "High school"
+type: "Técnico"
 permalink: /teaching/2016-spring-teaching-2
 venue: "IFCE, Telecomunicações"
 date: 2016-01-01
