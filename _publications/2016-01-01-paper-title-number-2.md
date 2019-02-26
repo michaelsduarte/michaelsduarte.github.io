@@ -5,7 +5,7 @@ permalink: /publication/2016-01-01-paper-title-number-2
 excerpt: 'O  consumo  de  energia  elétrica  nas  residências  cresce  conti-nuamente, tornando-se um problema para os consumidores e con-cessionárias do setor elétrico. Este trabalho trata do gerenciamento de energia residencial tendo como objetivo propor um sistema de gestão energética que possa ser integrado a um sistema de automação  residencial,...'
 venue: 'I Coletânea de Teses e Dissertações da UECE'
 citation: 'DUARTE, Michael S. (2016). &quot;Gerenciamento de energia residencial no contexto das *smart grids*.&quot; <i>I Coletânea de Teses e Dissertações da UECE, p.132</i>.'
-date: 2010-11-22
+date: 2016-01-01
 
 ---
 # Inbook
