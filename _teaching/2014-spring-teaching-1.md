@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Microprocessadores"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2016-spring-teaching-1
+venue: "IFCE, Redes de computadores"
+date: 2016
+location: "Brasil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Disciplina de microprocessadores no curso de superior de tecnologia em redes de computadores.
 
-Heading 1
+Material 1
 ======
 
-Heading 2
+Material 2
 ======
 
-Heading 3
+Material 3
 ======
