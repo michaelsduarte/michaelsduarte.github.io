@@ -11,3 +11,6 @@ Integrantes: Michael Santos Duarte - Integrante / Osmênio dos Santos Braz - Int
 Financiador(es): Companhia Energética do Maranhão
 
 Período: 2010-2012
+
+Outras informações:
+- [Paper](http://www.cgti.org.br/publicacoes/wp-content/uploads/2016/03/Sistema-de-Leitura-Automa%CC%81tica-de-Medidores-Eletro%CC%82nicos-de-Energia-Ele%CC%81trica-para-o-Meio-Rural.pdf)
