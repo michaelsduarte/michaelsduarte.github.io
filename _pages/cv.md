@@ -33,7 +33,7 @@ Experiências profissionais
 
 * 2011 - 2014: Tecnólogo de automação
   * Synapsis Brasil Ltda
-  * Duties included: Manutenção, comissionamento e projeto de sistemas de automação, telecontrole e *smart grid*
+  * Atividades: Manutenção, comissionamento e projeto de sistemas de automação, telecontrole e *smart grid*
 
 Publicações
 ======
