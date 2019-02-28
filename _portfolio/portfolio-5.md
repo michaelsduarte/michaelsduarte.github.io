@@ -8,6 +8,8 @@ De acordo com dados do Instituto de Desenvolvimento Industrial (INDI), em 2002 e
 
 Integrantes: Michael Santos Duarte - Coordenador / Angelica Paz de Melo - Integrante / Francisco Lucas Maurício da Silva - Integrante / Izamaro de Araújo - Integrante.
 
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)
+
 Período: 2015-2016
 
 Outras informações:
