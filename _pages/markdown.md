@@ -14,5 +14,4 @@ redirect_from:
 
 ## Contatos
 
-* Telefone: +55 85 3343-0572
 * E-mail: michael.santos@ifce.edu.br
