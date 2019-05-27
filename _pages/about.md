@@ -16,4 +16,4 @@ Meus interesses de pesquisa estão na inteligência computacional e aprendizagem
 
 *My research interests lie at intelligence computational and machine learning with applications in electronics, mechanics, control theory and computer science. In particular, my recent research works mostly focus on robust system identification in real-time.*
 
-<a class="twitter-timeline" href="https://twitter.com/michaelsduarte?ref_src=twsrc%5Etfw">Tweets by michaelsduarte</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="300" data-height="300" href="https://twitter.com/michaelsduarte?ref_src=twsrc%5Etfw">Tweets by michaelsduarte</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
