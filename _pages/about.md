@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Atualmente sou professor na área de mecatrônica do Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
+Atualmente é professor do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Campus Canindé. 
 
-Meus interesses de pesquisa estão na inteligência computacional e aprendizagem de máquina com aplicações em eletrônica, mecânica, teoria do controle e ciência da computação. Em particular, meus trabalhos recentes de pesquisa enfocam principalmente a identificação de sistemas robusta e on-line.
+Possui graduação em Mecatrônica Industrial (2010) pelo IFCE e Mestrado em Computação Aplicada (2014) pela UECE. É também doutorando em Engenharia de Teleinformática pela UFC com período sanduíche na University of Florida (UF). Atuou como líder de equipe em empresa multinacional entre 2011 e 2014, nas áreas de manutenção, comissionamento e projeto de sistemas de automação, telecontrole e smart grid. Foi coordenador dos cursos técnicos em eletromecânica no IFCE, campus Jaguaribe e técnico em telecomunicações no IFCE, campus Canindé. Como pesquisador, atua nas áreas de aprendizado de máquina, reconhecimento de padrões e sistemas dinâmicos com aplicação principalmente em robótica, identificação de sistemas e sistemas de apoio a decisão.
 
-*I am currently a professor in the area of mechatronics in the Federal Institute of Education, Science and Technology of Ceara.*
 
-*My research interests lie at intelligence computational and machine learning with applications in electronics, mechanics, control theory and computer science. In particular, my recent research works mostly focus on online robust system identification.*
+*Graduated in Industrial Mechatronics (2010) by the IFCE and Master in Applied Computing (2014) by UECE. He is also a doctoral student in Teleinformatics Engineering by the UFC with sandwich period at the University of Florida (UF). He worked as leader in a multinational company between 2011 and 2014, in the areas of maintenance, commissioning and design of automation systems, remote control and smart grid. As a researcher, he acts in the area of machine learning, pattern recognition and dynamic systems with application mainly in robotics, system identification and decision support systems.*
 
 <a class="twitter-timeline" data-height="600" href="https://twitter.com/michaelsduarte?ref_src=twsrc%5Etfw">Tweets by michaelsduarte</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
