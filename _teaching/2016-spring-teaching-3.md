@@ -1,4 +1,3 @@
-
 ---
 title: "Robótica"
 collection: teaching
