@@ -1,14 +1,14 @@
 ---
-title: "Microprocessadores"
+title: "Microcontroladores"
 collection: teaching
-type: "Graduação"
+type: "Técnico"
 permalink: /teaching/2016-spring-teaching-1
-venue: "IFCE, Redes de computadores"
-date: 2016-01-01
+venue: "IFCE, Eletrônica"
+date: 2021-01-01
 location: "Brasil"
 ---
 
-Disciplina de microprocessadores no curso de superior de tecnologia em redes de computadores.
+Disciplina de microcontroladores no curso técnico integrado ao ensino médio em eletrônica.
 
 Material 1
 ======
