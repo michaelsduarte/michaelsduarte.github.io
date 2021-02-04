@@ -1,14 +1,14 @@
 ---
-title: "Análise de circuitos"
+title: "Prototipagem de circuitos"
 collection: teaching
 type: "Técnico"
 permalink: /teaching/2016-spring-teaching-2
-venue: "IFCE, Telecomunicações"
-date: 2016-01-01
+venue: "IFCE, Eletrônica"
+date: 2021-01-01
 location: "Brasil"
 ---
 
-Disciplina de análise de circuitos no curso de nível médio técnico em telecomunicações.
+Disciplina de prototipagem de circuitos no curso técnico integrado ao ensino médio em eletrônica.
 
 Material 1
 ======
