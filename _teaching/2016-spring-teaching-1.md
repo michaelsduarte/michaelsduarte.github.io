@@ -1,14 +1,14 @@
 ---
-title: "Microcontroladores"
+title: "Máquinas elétricas"
 collection: teaching
 type: "Técnico"
 permalink: /teaching/2016-spring-teaching-1
-venue: "IFCE, Eletrônica"
+venue: "IFCE"
 date: 2021-01-01
 location: "Brasil"
 ---
 
-Disciplina de microcontroladores no curso técnico integrado ao ensino médio em eletrônica.
+Disciplina de máquinas elétricas.
 
 Material 1
 ======
