@@ -10,7 +10,7 @@ redirect_from:
 ## Localização
 
 * Instituto Federal de Educação, Ciência e Tecnologia do Ceará
-* Rodovia BR 020, Km 303, s/n - Jubaia, Canindé - CE, 62700-000
+* Complexo Industrial e Portuário do Pecém Highway, CE-422, Caucaia - CE, 62670-000
 
 ## Contatos
 
