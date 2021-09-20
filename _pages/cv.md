@@ -21,7 +21,7 @@ Formação
   
   Dissertação: [Proposta de um Sistema para Gerenciamento de Energia Residencial no Contexto das Smart Grids](https://href.li/?http://www.uece.br/mpcomp/index.php/arquivos/doc_view/383-?tmpl=component&format=raw)
 
-* Doutor em Engenharia de Teleinformática pela Universidade Federal do Ceará, 2021 (esperado).
+* Doutor em Engenharia de Teleinformática pela Universidade Federal do Ceará, 2021.
   
   Tese:  On correntropy-based machine learning models for nonlinear signal processing: Addressing sparsity, recursive estimation and outlier-robustness.
 
