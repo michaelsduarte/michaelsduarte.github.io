@@ -23,7 +23,7 @@ Formação
 
 * Doutor em Engenharia de Teleinformática pela Universidade Federal do Ceará, 2021.
   
-  Tese:  On correntropy-based machine learning models for nonlinear signal processing: Addressing sparsity, recursive estimation and outlier-robustness.
+  Tese:  [On correntropy-based machine learning models for nonlinear signal processing: Addressing sparsity, recursive estimation and outlier-robustness](https://repositorio.ufc.br/handle/riufc/63780)
 
 Experiências profissionais
 ======
