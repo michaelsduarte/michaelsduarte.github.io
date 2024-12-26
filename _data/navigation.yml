@@ -1,20 +1,8 @@
 # main links links
 main:
-  - title: "Publicações"
-    url: /publications/
-
-  - title: "Palestras"
-    url: /talks/    
-
   - title: "Ensino"
-    url: /teaching/    
-    
-  - title: "Projetos"
-    url: /portfolio/
-        
-  - title: "Posts"
-    url: /year-archive/
-    
+    url: https://drive.google.com/drive/folders/1FpiJVrHxRaGFUOYxl0BfMofIAF-Ey8xq?usp=sharing  
+      
   - title: "CV"
     url: /cv/
     
