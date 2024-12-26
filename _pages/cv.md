@@ -16,6 +16,10 @@ Formação
 * Tecnólogo em Mecatrônica Industrial pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará, 2010.
   
   Monografia: Aplicação do Método dos Elementos Finitos por Meio da Tecnonologia CAE: Estudo de Caso
+
+* Especialista em Docência pelo Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, 2024.
+  
+  Artigo: [Inteligência artificial na educação profissional e tecnológica: Perspecitivas para o processo de ensino-aprendizagem e o mundo do trabalho](https://doi.org/10.54751/revistafoco.v17n11-068)
   
 * Mestre em Computação Aplicada pela Universidade Estadual do Ceará, 2014.
   
@@ -34,21 +38,3 @@ Experiências profissionais
 * 2011 - 2014: Tecnólogo de automação
   * Synapsis Brasil Ltda
   * Atividades: Manutenção, comissionamento e projeto de sistemas de automação, telecontrole e *smart grid*
-
-Publicações
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Palestras
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Ensino
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
