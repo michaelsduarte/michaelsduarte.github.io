@@ -9,8 +9,7 @@ redirect_from:
 
 ## Localização
 
-* Instituto Federal de Educação, Ciência e Tecnologia do Ceará
-* Complexo Industrial e Portuário do Pecém Highway, CE-422, Caucaia - CE, 62670-000
+* [Instituto Federal de Educação, Ciência e Tecnologia do Ceará](https://maps.app.goo.gl/7tvzrq74oUpQKgyJ7)
 
 ## Contatos
 
