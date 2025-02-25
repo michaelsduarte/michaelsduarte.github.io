@@ -15,7 +15,7 @@ Formação
 ======
 * Tecnólogo em Mecatrônica Industrial pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará, 2010.
   
-  Monografia: Aplicação do Método dos Elementos Finitos por Meio da Tecnonologia CAE: Estudo de Caso
+  Monografia: Aplicação do Método dos Elementos Finitos por Meio da Tecnologia CAE: Estudo de Caso
 
 * Especialista em Docência pelo Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, 2024.
   
